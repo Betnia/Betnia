@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betnia
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on interesting codings 
+- 👀 I’m interested in coding and UX design
+- 🌱 I’m currently learning HTML,CSS and JavaScript.
+- 💞️ I’m looking to collaborate on interesting codings and UX designs
 - 📫 How to reach me betsyjaco58@gmail.com
 
 <!---
